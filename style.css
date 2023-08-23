@@ -1,0 +1,9 @@
+.heading{
+    width: 25%;
+    height: 50px;
+    background-color: aqua;
+    text-align: center;
+    margin-left: 35%;
+    padding-top: 25px;
+    border-radius: 20px;
+}
